@@ -1,6 +1,6 @@
 ### Hi there 👋, Ahmed Sharif Khan Noor
 #### Developer and Designer 
-![Developer and Designer ](https://pbs.twimg.com/profile_banners/817093197792804864/1626731093/600x200)
+![Developer and Designer ](https://github.com/ahmedsharifkhan/ahmedsharifkhan/blob/developedbyask/ahmed%20sharif%20khan%20noor%2000215.jpg)
 
 a web designer/developer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2007. I enjoy creating beautifully designed, intuitive and functional websites.
 
