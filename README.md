@@ -16,6 +16,7 @@ a web designer/developer focused on crafting great web experiences. Designing an
 Skills: Python / HTML / CSS
 
 - 🔭 I’m currently working on a important project 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed Sharif Khan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
