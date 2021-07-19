@@ -15,7 +15,7 @@ a web designer/developer focused on crafting great web experiences. Designing an
 
 Skills: Python / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on a important project 
 
 
 
