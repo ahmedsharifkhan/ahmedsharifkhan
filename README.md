@@ -1,7 +1,7 @@
 
 
-# Hello, I'm [Ahmed Sharif Khan Noor]
-![Your Name](your-profile-picture-url.jpg)
+# Hello, I'm Ahmed Sharif Khan Noor
+![Ahmed Sharif Khan Noor](https://avatars.githubusercontent.com/u/65096534?s=400&v=4)
 
 I'm a Digital Marketer with a passion for coding and technology. I enjoy leveraging my coding skills to enhance my marketing strategies and create innovative solutions. Here's a brief overview of my career and skills:
 
