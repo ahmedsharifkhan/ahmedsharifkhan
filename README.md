@@ -24,8 +24,8 @@ I'm a Digital Marketer with a passion for coding and technology. I enjoy leverag
 - [Project 3 Name](project-3-repository-link): Highlight additional projects that demonstrate your abilities.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile]([your-linkedin-profile-link](https://www.linkedin.com/in/ahmedsharifkhannoor/))
-- Twitter: [Your Twitter Profile]([your-twitter-profile-link](https://twitter.com/maxnoor87))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmedsharifkhannoor)
+- Twitter: [Your Twitter Profile](https://twitter.com/maxnoor87)
 
 Feel free to explore my repositories and learn more about my coding and marketing journey. I'm always open to collaboration and new opportunities. Let's connect and make great things happen!
 
