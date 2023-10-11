@@ -2,7 +2,7 @@
 
 # Hello, I'm Ahmed Sharif Khan Noor
 
-<p align="left">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/65096534?s=400&v=4" width="100" height="100" alt="Ahmed Sharif Khan Noor" border-radius: 50%;>
 </p>
 
