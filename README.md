@@ -2,12 +2,9 @@
 
 # Hello, I'm Ahmed Sharif Khan Noor
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/65096534?s=400&v=4" width="200" height="200" alt="Ahmed Sharif Khan Noor" border-radius: 50%;>
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/65096534?s=400&v=4" width="100" height="100" alt="Ahmed Sharif Khan Noor" border-radius: 50%;>
 </p>
-
-![Rounded Image](https://avatars.githubusercontent.com/u/65096534?s=400&v=4)
-
 
 I'm a Digital Marketer with a passion for coding and technology. I enjoy leveraging my coding skills to enhance my marketing strategies and create innovative solutions. Here's a brief overview of my career and skills:
 
