@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "{{ site.data.data.name}}",
+      "url": "{{ site.baseurl }}",
+      "image": "{{ site.data.data.ahmed_image }}",
+      "sameAs": [
+        "{{ site.data.data.contact.linkedin }}",
+        "{{ site.data.data.contact.twitter }}",
+        "{{ site.data.data.contact.facebook }}",
+        "{{ site.data.data.contact.instagram }}",
+        "{{ site.data.data.contact.github }}"
+      ],
+      "jobTitle": "{{ site.data.data.subtitle }}",
+      "worksFor": {
+        "@type": "{{site.data.data.experience[0].organization }}",
+        "name": "{{site.data.data.experience[0].company }}",
+        "url": "https://www.example.com/your-company-website"
+      },
+      "description": "{{ site.data.data.profile }}"
+    }
+    </script>

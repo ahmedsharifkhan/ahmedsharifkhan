@@ -1,0 +1,290 @@
+name: Ahmed Sharif Khan
+subtitle: Digital Marketer and Social Media Manager
+ahmed_image: https://lh3.googleusercontent.com/pw/ADCreHe0QUBP26rGQYneHsmfaXmOCohgP86wVm9fwmOVbViXERxg4YXQ3bUTnfare6BXI69E-KGmYAK9zQc-Zd7tLh1gRmtFQlcDqxWGg8rVmnSM9PgjwI5aBU-6dLLuWNuEgTiRZkYaxz27MHUsj7tBm5_s=w480-h480-s-no-gm?authuser=0
+
+# Sidebar
+contact:
+  email: ahmedsharifkhannoor@gmail.com
+  phone: +8801744750096
+  github: https://www.github.com/ahmedsharifkhan
+  facebook: https://www.facebook.com/ahmedsharifkhannoor
+  linkedin: https://www.linkedin.com/in/ahmedsharifkhannoor
+  instagram: https://www.instagram.com/ahmedsharifkhannoor
+  twitter: https://twitter.com/maxnoor87
+  website: https://ahmedsharifkhan.github.io/
+
+languages:
+  - idiom: English
+  - idiom: Russian
+  - idiom: French
+
+education:
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
+
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
+
+skills:
+  - category: Backend
+    skill:
+      - Go
+      - Rust
+  - category: Frontend
+    skill:
+      - React
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes
+
+# Career Summary
+profile: |
+  I am a highly motivated and dedicated professional seeking a challenging position in your company. I aim to utilize my data-driven decision-making & marketing knowledge while expanding my skill set and contributing to the success of the organizations
+  <br>
+  Resolutely ambitious and dedicated professional with a year of experience in Digital Marketing, E-commerce, and Social Media Management. Throughout my career, I have developed strong organizational and analytical skills, ensuring accuracy and efficiency in all tasks. My experience managing different projects has equipped me with a deep understanding of market dynamics and the ability to identify growth opportunities.
+
+# Experience
+experience:
+  - role: Project Manager (PM)
+    time: 2023-Present
+    company: Ecomclips
+    url: https://ecomclips.com
+    organization: IT
+    details: |
+      <div class="experience-details">
+        <h6 class="subtitle">Duties/Responsibilities</h6>
+        <p class="description">
+          Ecomclips is a data-driven eCommerce solution that specializes in digital marketing, branding, search engine optimization (SEO), and content creation.
+        </p>
+        <ul class="unordered-list">
+          <li>Improved processes, content, and lead generation with successful implementation.</li>
+          <li>Helped the content team with blog posts and promoting guest posts.</li>
+          <li>Delivered market research, forecasts, campaign outcomes, and consumer trends.</li>
+          <li>Produced over 20 Facebook posts and more than 50 Facebook and Google ads for diverse clients.</li>
+          <li>Designed and executed SEO strategies for nine different clients.</li>
+          <li>Set up Facebook Pixel, Google Analytics, and Tag Manager for multiple clients.</li>
+          <li>Effectively addressed various challenges related to Shopify, WordPress, and Google Merchant Center.</li>
+        </ul>
+      </div>
+    tagname: Technologies used
+    technologies_used: |
+      Digital Marketing, Social Medai Marketing, Google Ads, Facebook Ads, Google Tag Manager, Google Analytics
+
+  - role: Digital Marketing Manager
+    time: 2022-2023
+    company: All2Buy
+    url: https://www.facebook.com/all2buybd/
+    details: |
+      <div class="experience-details">
+        <h6 class="subtitle">Duties/Responsibilities</h6>
+        <p class="description">
+          Implemented strategic lead generation enhancements, developed comprehensive marketing strategies for content
+          </p>
+          <p class="description">
+          Effectively leveraged influencers to enhance brand reach and drive higher levels of traffic and engagement
+          Supported content team with marketing guest blogs & posts. Developed strategy, amplified reach with influencers, increased traffic & engagement
+          </p>
+          <p class="description">
+          One of my key contributions was in developing a comprehensive marketing strategy for each piece of content. This involved identifying the target audience, selecting the most effective distribution channels, and creating compelling promotional materials like social media posts, email campaigns, and paid advertising.
+          </p>
+          <p class="description">
+          Provided consumer trends, marketing outcomes, and market research and projections
+          </p>
+          Set Up Tag Manager, Google Analytics, And Facebook Pixel For A Few Clients
+          <p class="description">
+          By setting up these powerful tools, I was able to help my clients gain a deeper understanding of their website traffic and user behavior. They can now track important metrics like page views, bounce rates, and conversion rates, and use this data to optimize their digital marketing strategies
+        </p>
+        <ul class="unordered-list">
+          <li>Successfully executed numerous campaigns on Clothing Brand, and Home and Kitchen items, resulting in improved sales and increased brand awareness</li>
+          <li>Developing and managing project plans, schedules, and budgets</li>
+          <li>Coordinating and leading cross-functional teams</li>
+          <li>Communicating with stakeholders and team members to ensure project success</li>
+          <li>Identifying and mitigating project risks</li>
+          <li>Ensuring project deliverables meet quality standards</li>
+          <li>Managing and reporting on project progress to stakeholders</li>
+          <li>Developing and maintaining relationships with clients and partners</li>
+          <li>Managing campaign changes and adapting campaign plans as necessary</li>
+          <li>Ensuring compliance with relevant laws, regulations, and industry standards</li>
+          <li>Managing project resources, including personnel and equipment</li>
+        </ul>
+      </div>
+    tagname: Technologies used
+    technologies_used: |
+      Digital Marketing, Social Medai Marketing, Google Ads, Facebook Ads, Google Tag Manager, Google Analytics
+
+  - role: Final-Year-Thesis
+    time: 2020
+    company: Elkjournals
+    url: https://www.elkjournals.com/journalcurrentissue.asp?JType=EAPJMRM&VType=11&IType=3
+    details: |
+      <div class="experience-details">
+        <h6 class="subtitle"> Active research with Md. Abdullah- Al- Masum <br>(Senior Lecturer)</h6>
+        <p class="description">
+          IMPACT OF COVID-19 ON PROMOTIONAL STRATEGIES OF PHARMACEUTICAL COMPANIES IN BANGLADESH 
+        </p>
+        <ul class="unordered-list">
+          <li>(Volume 11 Issue 3 (July – September 2020)</li>
+        </ul>
+      </div>
+
+  - role: 
+    time: 2021
+    company: EBAUB
+    url: https://ebaub.ac.bd/journal/ej/archive/vol3.html
+    details: |
+      <div class="experience-details">
+        <h6 class="subtitle"> Active research with Md. Abdullah- Al- Masum <br>(Senior Lecturer)</h6>
+        <p class="description">
+          Strategies to Fight against the downward Sales during COVID-19: Study on Pharmaceutical Companies in Bangladesh
+          <br>
+          Vice-chancellor: Professor Dr. A B M Rashedul Hassan
+          <br>
+          Md. Abdullah- Al- Masum (Senior Lecturer) 
+          <br>
+          Ahemd Sharif Khan
+        </p>
+        <ul class="unordered-list">
+          <li>EBAUB Journal Volume 3 January 2021</li>
+        </ul>
+      </div> 
+    tagname: Technologies used
+    technologies_used: |
+      Market Research, Data Collection, Data Analysis
+
+  - role: Extra Curricular Activities
+    time: 
+    company: 
+    url: 
+    details: |
+      <div class="experience-details">
+        <h6 class="subtitle"></h6>
+        <p class="description">
+          As a dedicated hockey player, I have participated in numerous activities related to the sport, including training camps, tournaments, and volunteering. Additionally, I have worked in varsity day management, where I further honed my organizational skills and teamwork. Through these experiences, I have developed a strong work ethic and a passion for teamwork and physical fitness.
+        </p>
+      </div> 
+
+
+# Other Details
+other:
+  - title: EDUCATION
+    varsity: EXIM Bank Agricultural University Bangladesh
+    link: #
+    degree: Bachelor of Business Administration (BBA)
+    time: 2020
+    duration: Duration 4 years
+    results: Results CGPA - 3.23 out of 4
+    # tags: |
+    #   HTML CSS, JavaScript, Photoshop, Illustrator, Microsoft Office, Java, NextJs, Python, Django
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: 
+    varsity: Nawabganj Govt. College
+    link: #
+    degree: Higher Secondary Certificate (HSC)
+    time: 2016
+    duration: Duration 2 years | Group Business
+    results: Results CGPA - 3.67 out of 5
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: 
+    varsity: Nayansuka R. K High School
+    link: #
+    degree: Secondary School Certificate (SSC)
+    time: 2020
+    duration: Duration 10 years | Group Science
+    results: Results CGPA - 4.94 out of 5
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: Programming & Technologies
+    varsity: Website - Python and Django
+    # link: #
+    # degree: Python HTML5, CSS, Javascript, SQL
+    # time: 2016
+    # duration: Duration 2 years | Group Business
+    # results: Results CGPA - 3.67 out of 5
+    # tags: |
+    #   SEO & SEM, Google Ads, Facebook Ads, Social Media Marketing, Google Analytics, Google tag manager, Email marketing, Video marketing, Content marketing
+    details: |
+      Digital Marketing: SEO & SEM, Google
+      Ads, Facebook Ads, Social Media
+      Marketing, Google Analytics, Google
+      tag manager, Email marketing, Video
+      marketing, Content marketing
+
+      Software: Git and Github, Microsoft
+      Office Suite, SPSS, Adobe
+      Illustrator, Canva, DaVinci Resolve
+
+
+  - title: L a n g u a g e
+    # varsity: Award Name Lorem
+    # link: #
+    # degree: Award Name Lorem
+    # time: 2020
+    # duration: Duration 10 years | Group Science
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      Bangla- Native
+      English- Good Working Knowledge
+
+  - title: I n t e r e s t s
+    # varsity: Award Name Ipsum
+    # link: #
+    # digre: Secondary School Certificate (SSC)
+    # time: 2020
+    # duration: Duration 10 years | Group Science
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      Artificial Intelligence
+      Data Science
+      Photography
+      Cloud computing
+      Online gaming
+      Traveling
+      Trends
+      Entrepreneurship
+
+
+  - title: R e f e r e n c e
+    varsity: Sr. Executive of Digital Marketing and E-Commerce Operations
+    # link: #
+    degree: ABDULLAH AL MAMUN TONMOY
+    # time: 2020
+    duration: Art Lifestyle Ltd.
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      <a href="tel:+8801710720118">017 107 201 18</a>
+      <a href="mailto:aamtonmoy@outlook.com">aamtonmoy@outlook.com</a>
+      <a href="https://www.linkedin.com/in/aamtonmoy/"><b>Linkedin</b></a>
+      
+  - title: 
+    varsity: Digital Marketing Manager in Charge
+    # link: #
+    degree: Tahmina Akter
+    # time: 2020
+    duration: Ecomclips Ltd.
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      <a href="tel:+8801777129447">017 771 294 47</a>
+      <a href="mailto:mitutahmi@gmail.com">mitutahmi@gmail.com</a>
+      <a href="https://www.linkedin.com/in/tahmi-mitu/"><b>Linkedin</b></a>
+
+
+course: 
+  - details: |
+      <li>Social Media Banner Design Graphic Designer by Dopementor.com (2023)</li>
+      <li>Digital Marketing, Google Ads, Facebook Ads and other by Skilluper.com (2022)</li>
+      <li>Digital Marketing Associate by Facebook. (2021)</li>
+      <li>Web Design for Everybody Authorized By the University of Michigan. (2020)</li>
+      <li>Open Source Leader Authorized By Common Purpose. (2020)</li>
+
