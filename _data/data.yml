@@ -1,4 +1,4 @@
-name: Ahmed Sharif Khan
+name: Ahmed Sharif Khan Noor
 subtitle: Digital Marketer and Social Media Manager
 ahmed_image: https://lh3.googleusercontent.com/pw/ADCreHe0QUBP26rGQYneHsmfaXmOCohgP86wVm9fwmOVbViXERxg4YXQ3bUTnfare6BXI69E-KGmYAK9zQc-Zd7tLh1gRmtFQlcDqxWGg8rVmnSM9PgjwI5aBU-6dLLuWNuEgTiRZkYaxz27MHUsj7tBm5_s=w480-h480-s-no-gm?authuser=0
 
@@ -28,7 +28,15 @@ education:
     university: Ionian University
 
 skills:
-  - category: Backend
+  - Digital Marketing
+  - Social Media Marketing
+  - Google Ads
+  - Facebook Ads
+  - Google Tag Manager
+  - Google Analytics
+
+skill:
+  - category: Digital Marketing, Social Medai Marketing, Google Ads, Facebook Ads, Google Tag Manager, Google Analytics
     skill:
       - Go
       - Rust

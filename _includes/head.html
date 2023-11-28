@@ -1,21 +1,24 @@
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>{{ page.title }}</title>
-
-<!-- Meta -->
-<meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<!-- Meta -->
+<title>{{ page.title }}</title>
+
+{% if site.data.data.profile %}
+<meta name="Description" content="{{ site.data.data.profile | truncate: 160 }}">
+{% endif %}
+
+<meta name="Author" content="{{ site.data.data.name }}">
+
+{% if site.data.data.skills %}
+<meta name="skills" content="{% for skill in site.data.data.skills %}{{ skill }}{% if forloop.last %}{% else %}, {% endif %}{% endfor %}">
+  {% endif %}
+
+
 <link rel="icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/65096534?s=400&v=4">
-<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-
-<!-- <meta name="description" content="Responsive Resume Template">
-<meta name="author" content="Xiaoying Riley at 3rd Wave Media"> -->
-<!-- <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/assets/resume/images/favicon.png"> -->
-
-<!-- Google Font -->
-<!-- <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
 
 <!-- FontAwesome JS-->
 <script defer src="{{ site.baseurl }}/assets/fontawesome/js/all.min.js"></script>
@@ -25,5 +28,12 @@
 
 {% include schema.html %}
 
-<!-- Clarity tracking code for https://ahmedsharifkhan.github.io/ahmed-Resume/ -->
-<!-- <script>    (function (c, l, a, r, i, t, y) { c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i + "?ref=bwt"; y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y); })(window, document, "clarity", "script", "jkge5ebyeg");</script> -->
+<style>
+    @media only screen and (max-width: 768px){
+        html,
+        body{
+            width:100%;
+            overflow-x:hidden;
+        }
+    }
+</style>
